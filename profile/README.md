@@ -3,3 +3,14 @@ Azure NoOps is a flexible foundation of open sourced projects that enables US De
 Delivered as a collection of infrastructure as code (IaC) Terraform modules and example reference implementations, the Azure NoOps is intended to empower organizations on their journey towards a continuous deployment and governance model for their cloud infrastructure.
 
 Learn more about the Azure NoOps movement and philosophy here - [What is Azure NoOps?]().
+
+## Quickstart Deployment - Terraform
+
+While the Azure NoOps can be used to build all sorts of useful solutions, a simple place to start is deploying a Mission Enclave platform.
+You can use the Azure NoOps to deploy [SCCA-compliant Mission Enclave]([./src/bicep/platforms/](https://github.com/azurenoops/ref-scca-enclave-starter/blob/main/README.md)) based on Microsoft's [SACA implementation guidance][saca]
+
+[//]: # (************************)
+[//]: # (INSERT LINK LABELS BELOW)
+[//]: # (************************)
+
+[saca]: https://aka.ms/saca "Microsoft Secure Azure Computing Architecture (SACA) Guidance"
