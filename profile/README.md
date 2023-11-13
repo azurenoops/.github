@@ -2,7 +2,7 @@ Azure NoOps is a flexible foundation of open-sourced projects that enables the U
 
 Delivered as a collection of infrastructure as code (IaC) Terraform modules and example reference implementations, Azure NoOps is intended to empower organizations on their journey towards a continuous deployment and governance model for their cloud infrastructure.
 
-Learn more about the Azure NoOps movement and philosophy here - [What is Azure NoOps?]().
+Learn more about the Azure NoOps movement and philosophy here - [What is Azure NoOps?](../whatisnoops.md).
 
 ## Quickstart Deployment - Terraform
 
