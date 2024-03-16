@@ -4,6 +4,8 @@ Delivered as a collection of infrastructure as code (IaC) Terraform modules and 
 
 Learn more about Azure NoOps and how to get started with our Mission Enclave Starters - [Azure NoOps Terraform Baseline Guide](https://azurenoops.github.io/terraform-overlays-baseline).
 
+> **NOTE:** The Azure NoOps Terraform Baseline Guide is a work in progress, and it will be updated frequently.
+
 [//]: # (************************)
 [//]: # (INSERT LINK LABELS BELOW)
 [//]: # (************************)
